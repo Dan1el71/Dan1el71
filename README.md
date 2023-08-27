@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Software developer with experience in designing and developing web pages. Committed to delivering high-quality solutions and constantly improving skills and knowledge.
+
+Feel free to contact me if you have any questions or suggestions. You can reach me by email at ddrmhk1@gmail.com
