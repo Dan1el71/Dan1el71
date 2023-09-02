@@ -6,8 +6,8 @@
   <br><br><br>
   
   <a href="">
-    <img width="400" src="https://readme-typing-svg.demolab.com?font=Righteous+color&size=60&pause=1000&color=E1E1E1&center=true&width=460&height=100&lines=Hello+%F0%9F%91%8B+my" alt="Typing SVG">
-    <img width="400" src="https://readme-typing-svg.demolab.com?font=Righteous+color&size=60&pause=1000&color=E1E1E1&center=true&width=500&height=100&lines=name+is+Daniel."> 
+    <img width="400" src="https://readme-typing-svg.demolab.com?font=Righteous+color&size=50&pause=1000&color=E1E1E1&center=true&width=460&height=100&lines=Hello+%F0%9F%91%8B+my" alt="Typing SVG">
+    <img width="400" src="https://readme-typing-svg.demolab.com?font=Righteous+color&size=50&pause=1000&color=E1E1E1&center=true&width=500&height=100&lines=name+is+Daniel."> 
   </a>
   <br><br>
   
