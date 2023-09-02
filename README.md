@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Dan1el71)
 <!--
 **Dan1el71/Dan1el71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
