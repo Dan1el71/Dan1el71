@@ -23,7 +23,7 @@
 - 👨‍💻 I'm a Systems Engineering Student.
 - 🔭 I’m looking to collaborate on any <em>interesting project.</em>
 - 📫 How to reach me: *ddrmhk1@gmail.com*
-- 🌍 My personal web: <a href="https://danielrange.site">danielrangel.site<a/>
+- 🌍 My personal web: <a href="https://danielrangel.site">danielrangel.site<a/>
 - 💬 Ask me about anything!
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
   
