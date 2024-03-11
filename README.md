@@ -37,7 +37,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)<br>
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;![TypeScript](https://badges.aleen42.com/src/typescript.svg)&nbsp;![Java](https://badges.aleen42.com/src/java.svg)<br>
-![React](https://badges.aleen42.com/src/react.svg)&nbsp;![VueJS](https://badges.aleen42.com/src/vue.svg)&nbsp;![Angular](https://badges.aleen42.com/src/angular.svg)<br>
+![React](https://badges.aleen42.com/src/react.svg)&nbsp;![VueJS](https://badges.aleen42.com/src/vue.svg)&nbsp;<br>
 ![TailWindCSS](https://badges.aleen42.com/src/tailwindcss.svg)<br>
 ![Redux](https://badges.aleen42.com/src/redux.svg)<br>
 ![VisualStudio](https://badges.aleen42.com/src/visual_studio_code.svg)&nbsp;![GitHub](https://badges.aleen42.com/src/github.svg)<br>
