@@ -25,7 +25,7 @@
 - 📫 How to reach me: *ddrmhk1@gmail.com*
 - 🌍 My personal web: <a href="https://danielrangel.site">danielrangel.site<a/>
 - 💬 Ask me about anything!
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **Angular and other full-stack tools.**
   
 ---
 
