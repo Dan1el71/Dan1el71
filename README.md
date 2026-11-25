@@ -1,31 +1,37 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Ledger-inspired header with the phrase make it reconcile, a debit column, a credit column and a zero balance.">
+</picture>
+
 # Daniel Rangel
 
-Backend engineer focused on multi-tenant systems, payments and event-driven services.
-I build with Java, Spring Boot, PostgreSQL and React, and I care about clean domain
-boundaries, reproducible environments and tests that exercise real behaviour.
+Backend engineer in Colombia. I work on the part of money systems that never
+makes it to the landing page: ledgers that balance, invoices that add up, and
+payments that don't get charged twice.
 
-## Featured work
+Java and Spring Boot are home. PostgreSQL is where I trust the rules to live.
+I write React when a project needs a face.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Ledgerline](https://github.com/Dan1el71/ledgerline) | Digital bank on a double-entry ledger: accounts, transfers, statements, back office and an AI assistant | Java 21, Spring Boot, PostgreSQL, Kafka, Next.js, FastAPI, Helm |
-| [Shopstack](https://github.com/Dan1el71/shopstack) | Full-stack e-commerce: storefront, cart, orders, seller tools, Stripe payments and Kafka events | Spring Boot, React, TypeScript, MySQL, Kafka, Stripe |
-| [Billforge](https://github.com/Dan1el71/billforge) | Multi-tenant SaaS billing: plans, subscriptions, proration, invoices and Stripe PaymentIntents | Java 21, Spring Boot, PostgreSQL, Redis, Stripe |
+![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot 3.3](https://img.shields.io/badge/Spring_Boot-3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-events-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-payments-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-local-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## What I work on
+**The shape of most of my work**
 
-- Multi-tenant data isolation with schema-per-tenant and strict tenant context.
-- Billing domains: subscriptions, proration, invoices, retries and refunds.
-- Transactional outbox, idempotency and Kafka consumers that tolerate duplicates.
-- Payment integrations with Stripe: PaymentIntents, signed webhooks and test-mode coverage.
-- Front ends in React, TypeScript and Next.js when the product needs one.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg">
+  <img src="assets/flow-light.svg" alt="Client to API to domain rules to PostgreSQL, with an outbox branch to Kafka.">
+</picture>
 
-## Toolbox
+*Rules close to the data, events that survive a crash.*
 
-Java, Spring Boot, Spring Security, PostgreSQL, MySQL, Redis, Kafka, Flyway, Docker,
-Kubernetes, Terraform, React, TypeScript, Next.js, Python and GitHub Actions.
+I've built [Ledgerline](https://github.com/Dan1el71/ledgerline), a digital bank
+on a double-entry ledger; [Billforge](https://github.com/Dan1el71/billforge),
+multi-tenant billing for SaaS; and [Shopstack](https://github.com/Dan1el71/shopstack),
+an e-commerce stack end to end. Each repo has the architecture, the trade-offs,
+and the known limitations.
 
-## Contact
-
-- Email: ddrmhk1@gmail.com
-- GitHub: [@Dan1el71](https://github.com/Dan1el71)
+[rangelm.site](https://rangelm.site) · [Email](mailto:ddrmhk1@gmail.com) · [GitHub](https://github.com/Dan1el71)
