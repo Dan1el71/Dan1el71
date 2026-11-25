@@ -1,12 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/fullstack-dark-v2.svg">
-  <img src="assets/fullstack-light-v2.svg" alt="Full-stack header with the phrase from the screen to the schema, and three layers: interface, application and data.">
-</picture>
+**from the screen to the schema.**
 
 I like building the whole path: interfaces that feel simple, APIs that hold up,
 and data that stays consistent.
 
 I care more about clear boundaries than about adding another framework.
+
+## Stats
+
+<p align="center">
+  <img alt="GitHub stats for the last year: commits, pull requests and repositories contributed to" src="https://github-readme-stats.vercel.app/api?username=Dan1el71&amp;show_icons=true&amp;hide=stars,issues&amp;hide_rank=true&amp;hide_border=true&amp;custom_title=At%20a%20glance&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;icon_color=7ee787&amp;text_color=e6edf3&amp;theme=github_dark">
+  <img alt="Most used languages: Java, TypeScript, Python and HCL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1el71&amp;layout=compact&amp;langs_count=4&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=e6edf3&amp;theme=github_dark">
+</p>
+
+<p align="center">
+  <img alt="Contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=Dan1el71&amp;theme=github-compact&amp;bg_color=0d1117&amp;hide_border=true&amp;area=true&amp;custom_title=Recent%20activity">
+</p>
 
 ## Toolbox
 
