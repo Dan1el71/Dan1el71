@@ -3,14 +3,10 @@
   <img src="assets/fullstack-light.svg" alt="Full-stack header with the phrase from the screen to the schema, and three layers: interface, application and data.">
 </picture>
 
-# Daniel Rangel
+I like building the whole path: interfaces that feel simple, APIs that hold up,
+and data that stays consistent.
 
-Full-stack developer in Colombia. I like building the whole path: interfaces
-that feel simple, APIs that hold up, and data that stays consistent.
-
-React and Next.js on the front, Java and Spring Boot on the back, PostgreSQL
-where the rules live. I care more about clear boundaries than about adding
-another framework.
+I care more about clear boundaries than about adding another framework.
 
 ## Toolbox
 
@@ -23,10 +19,8 @@ another framework.
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&amp;logo=css3&amp;logoColor=white"></a>
-  <a href="https://sass-lang.com/"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&amp;logo=sass&amp;logoColor=white"></a>
   <a href="https://www.postgresql.org/docs/"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat"></a>
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&amp;logo=gnubash&amp;logoColor=white"></a>
-  <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&amp;logo=markdown&amp;logoColor=white"></a>
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -36,7 +30,6 @@ another framework.
   <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&amp;logo=nextdotjs&amp;logoColor=white"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&amp;logo=bootstrap&amp;logoColor=white"></a>
   <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&amp;logo=tailwindcss&amp;logoColor=white"></a>
-  <a href="https://vite.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white"></a>
 </p>
 
 <h3 align="center">Backend</h3>
@@ -69,7 +62,6 @@ another framework.
   <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white"></a>
   <a href="https://www.cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&amp;logo=cloudflare&amp;logoColor=white"></a>
   <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white"></a>
-  <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&amp;logo=githubpages&amp;logoColor=white"></a>
 </p>
 
 <h3 align="center">Infrastructure</h3>
@@ -80,7 +72,6 @@ another framework.
   <a href="https://helm.sh/"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat&amp;logo=helm&amp;logoColor=white"></a>
   <a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&amp;logo=terraform&amp;logoColor=white"></a>
   <a href="https://nginx.org/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white"></a>
-  <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white"></a>
   <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&amp;logo=githubactions&amp;logoColor=white"></a>
 </p>
 
@@ -90,13 +81,4 @@ another framework.
   <a href="https://junit.org/"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=flat&amp;logo=junit5&amp;logoColor=white"></a>
   <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&amp;logo=jest&amp;logoColor=white"></a>
   <a href="https://testcontainers.com/"><img alt="Testcontainers" src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat"></a>
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white"></a>
-  <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white"></a>
-  <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat&amp;logo=insomnia&amp;logoColor=white"></a>
-  <a href="https://obsidian.md/"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&amp;logo=obsidian&amp;logoColor=white"></a>
 </p>
