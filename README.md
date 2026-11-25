@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/fullstack-dark.svg">
-  <img src="assets/fullstack-light.svg" alt="Full-stack header with the phrase from the screen to the schema, and three layers: interface, application and data.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fullstack-dark-v2.svg">
+  <img src="assets/fullstack-light-v2.svg" alt="Full-stack header with the phrase from the screen to the schema, and three layers: interface, application and data.">
 </picture>
 
 I like building the whole path: interfaces that feel simple, APIs that hold up,
