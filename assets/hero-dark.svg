@@ -5,7 +5,7 @@
   <rect width="1000" height="250" rx="8" fill="#0b1220"/>
   <g stroke="#1c2a3d" stroke-width="1" fill="none">
     <path d="M40 58H960M40 98H960M40 138H960M40 178H960"/>
-    <path d="M80 0V250M760 0V250"/>
+    <path d="M56 0V250M760 0V250"/>
   </g>
   <text x="72" y="40" fill="#6e7f95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">LEDGER / VOL. 01</text>
   <text x="72" y="128" fill="#f4ecdd" font-family="Georgia, 'Times New Roman', serif" font-size="45">make it <tspan fill="#7ee787" font-style="italic">reconcile.</tspan></text>
