@@ -67,5 +67,3 @@ another framework.
   <a href="https://junit.org/"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=flat&amp;logo=junit5&amp;logoColor=white"></a>
   <a href="https://testcontainers.com/"><img alt="Testcontainers" src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat"></a>
 </p>
-
-[rangelm.site](https://rangelm.site) · [Email](mailto:ddrmhk1@gmail.com) · [GitHub](https://github.com/Dan1el71)
